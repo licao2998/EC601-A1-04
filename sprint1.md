@@ -2,18 +2,16 @@
 
 [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
 
-[American Express.docx](American%20Express%20b15fca70902c4b5d8a9552d014cfd9c2/American_Express.docx)
-
 # Sprint 1
 
-- Define your product mission
-- Define your users
-- Comprehensive literature review (build on project 1)
-- Define User Stories
-- Define MVP and MVP user stories
-- Technologies to evaluate and reason for choosing them
-- Setup of development environment
-- Next Sprint goals
+- [x]  Define your product mission
+- [x]  Define your users
+- [x]  Comprehensive literature review (build on project 1)
+- [ ]  Define User Stories
+- [ ]  Define MVP and MVP user stories
+- [ ]  Technologies to evaluate and reason for choosing them
+- [ ]  Setup of development environment
+- [ ]  Next Sprint goals
 
 ## Product mission
 
@@ -25,19 +23,34 @@ Therefore, the prediction can be combined with machine learning techniques to ov
 
 ## Users
 
-Banks
-
-(Insurance company)
-
-Credit cards users
+- Banks
+- (Insurance company)
+- Credit cards users
 
 ## User Stories
 
+- I, as a bank staff, want…
+- I, as the credit cards user, want…
+
 ## MVP and MVP user stories
 
-- Technologies to evaluate and reason for choosing them
-- Setup of development environment
-- Next Sprint goals
+- 
+
+## Technologies to evaluate and reason for choosing them
+
+- machine learning models, such as SVM, Decision Tree and Random Forest Classifier
+- 
+
+## Setup of development environment
+
+- python, python libraries such as numpy, grphviz
+- download the dataset from kaggle
+- UI, design an interacting tool
+
+## Next Sprint goals
+
+- finish **Data Preprocessing and Visualization**
+- overall plan for this project
 
 ## Literature Review
 
