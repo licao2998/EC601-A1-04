@@ -29,8 +29,8 @@ Therefore, the prediction can be combined with machine learning techniques to ov
 
 ## User Stories
 
-- I, as a bank staff, want…
-- I, as the credit cards user, want…
+- I, as a bank staff, want to analyze the characteristics of credit card default users and get accurate prediction of the default
+- I, as the credit cards user, want to... 
 
 ## MVP and MVP user stories
 
@@ -39,7 +39,7 @@ Therefore, the prediction can be combined with machine learning techniques to ov
 ## Technologies to evaluate and reason for choosing them
 
 - machine learning models, such as SVM, Decision Tree and Random Forest Classifier
-- 
+- Open source projects: scikit, pytorch on github.
 
 ## Setup of development environment
 
