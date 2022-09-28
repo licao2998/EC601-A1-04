@@ -3,7 +3,7 @@
 [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
 
 ## wine quality prediction for reference
-https://www.kaggle.com/code/amirhosainmahdiani/red-wine-quality-full-prediction
+https://www.kaggle.com/code/amirhosainmahdiani/red-wine-quality-full-prediction  
 https://www.kaggle.com/code/vishalyo990/prediction-of-quality-of-wine
 
 # Sprint 1
