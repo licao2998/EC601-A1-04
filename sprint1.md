@@ -71,3 +71,5 @@ User credit card default prediction tasks include credit card spending predictio
 Banking & Finance, 2016,72:218-239.
 
 [4] Cai J, Liu X, Wu Y. SVM Learning for default prediction of credit card under differential Privacy. PPML, 2020: 51-53.
+
+[5] https://github.com/jxzly/Kaggle-American-Express-Default-Prediction-1st-solution
