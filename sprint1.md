@@ -27,18 +27,17 @@ Therefore, the prediction can be combined with machine learning techniques to ov
 
 ## Users
 
-- Banks
-- (Insurance company)
-- Credit cards users
+- Credit cards companies, i.e., American Express
 
 ## User Stories
 
-- I, as a bank staff, want to analyze the characteristics of credit card default users and get accurate prediction of the default
-- I, as the credit cards user, want to keep my data privacy to be guaranteed
+- I, as a risk analyst at American Express, want to analyze the characteristics of credit card default users and get accurate prediction of whether a credit card user will default
+
 
 ## MVP and MVP user stories
 Machine learning is used for credit default prediction. The machine learning model adds time-series behavioral data and anonymous customer profile information to improve the accuracy of credit default prediction.  
-I am a data analyst in a bank. When evaluating the credit rating of an account, I need to calculate the maximum loan repayment ability based on the consumption records of various dimensions of the account, so as to reduce the situation of being unable to repay the debt.  
+I am a data analyst at a credit card company. When evaluating the credit rating of an account, I need to calculate the maximum loan repayment ability based on the consumption records of various dimensions of the account to reduce the situation of being unable to repay the debt. 
+
 
 ## Technologies to evaluate and reason for choosing them
 
