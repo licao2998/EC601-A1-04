@@ -6,3 +6,4 @@ it generate the features files
 3. run lgb.ipynb or xgb.ipynb, train the model
 
 large ram needed
+Prof. Osama provided the scc links before which could be useful it the code cannot run on your computer
